@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="inZoom Properties">e35aa3d54f11130066d7b4a18110c7db</category>
+        <order>200</order>
+        <property display_value="x_158653_inzoom.api_secret_key" name="x_158653_inzoom.api_secret_key">f0a9e7514f11130066d7b4a18110c750</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>chris.layman</sys_created_by>
+        <sys_created_on>2018-04-05 16:00:48</sys_created_on>
+        <sys_id>5d9a27954f11130066d7b4a18110c782</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_158653_inzoom.api_secret_key.Zoom Properties</sys_name>
+        <sys_package display_value="inzoom" source="x_158653_inzoom">b78727514f11130066d7b4a18110c731</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="inzoom">b78727514f11130066d7b4a18110c731</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_5d9a27954f11130066d7b4a18110c782</sys_update_name>
+        <sys_updated_by>chris.layman</sys_updated_by>
+        <sys_updated_on>2018-04-05 16:00:48</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

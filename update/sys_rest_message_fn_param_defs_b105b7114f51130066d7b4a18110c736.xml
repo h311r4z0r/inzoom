@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>page_size</name>
+        <order>400</order>
+        <rest_message_function display_value="List Users">b2d2735d4f11130066d7b4a18110c77b</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>chris.layman</sys_created_by>
+        <sys_created_on>2018-04-05 16:48:18</sys_created_on>
+        <sys_id>b105b7114f51130066d7b4a18110c736</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>page_size</sys_name>
+        <sys_package display_value="inzoom" source="x_158653_inzoom">b78727514f11130066d7b4a18110c731</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="inzoom">b78727514f11130066d7b4a18110c731</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_b105b7114f51130066d7b4a18110c736</sys_update_name>
+        <sys_updated_by>chris.layman</sys_updated_by>
+        <sys_updated_on>2018-04-06 00:43:41</sys_updated_on>
+        <value>${page_size}</value>
+    </sys_rest_message_fn_param_defs>
+</record_update>
